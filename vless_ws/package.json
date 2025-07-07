@@ -1,0 +1,14 @@
+{
+  "name": "vless_ws_docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "ws": "^8.13.0"
+  }
+}
